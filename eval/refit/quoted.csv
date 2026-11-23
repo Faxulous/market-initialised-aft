@@ -1,0 +1,11 @@
+quantity,value
+h2_added_mean_21-22,4.454787234042553
+h2_added_mean_22-23,5.15
+h2_added_mean_23-24,7.105263157894737
+h2_added_mean_24-25,6.44
+se_gamma,0.015107484643902448
+hazard_ratio_5min,0.738300578769301
+hazard_ratio_mean_first_10min,0.7100179126315506
+psxg_mean_goal,0.5588312284730196
+psxg_mean_saved,0.20138216699367778
+lrt_xg_given_shots,0.5184951745468425

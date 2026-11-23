@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "market-initialised-aft"
+authors:
+  - family-names: Clegg
+    given-names: Lawrence
+    orcid: "https://orcid.org/0009-0009-1292-4773"
+  - family-names: Song
+    given-names: Zixing
+    orcid: "https://orcid.org/0000-0002-8871-3990"
+  - family-names: Cartlidge
+    given-names: John
+    orcid: "https://orcid.org/0000-0002-3143-6355"
+repository-code: "https://github.com/Faxulous/market-initialised-aft"
+license: PolyForm-Noncommercial-1.0.0
+preferred-citation:
+  type: article
+  title: "A market-initialised accelerated failure time model for in-play football forecasting"
+  authors:
+    - family-names: Clegg
+      given-names: Lawrence
+    - family-names: Song
+      given-names: Zixing
+    - family-names: Cartlidge
+      given-names: John
+  journal: "Journal of Quantitative Analysis in Sports"
+  year: 2026
+  doi: "10.1515/jqas-2026-0103"

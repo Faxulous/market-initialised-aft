@@ -1,0 +1,17 @@
+\begin{tabular}{llrl}
+\toprule
+Check & Checked & Flagged & Action \\
+\midrule
+WhoScored event feed exists & 1{,}520 fixtures & 3 & Excluded \\
+Event feed reaches the final whistle & 1{,}517 fixtures & 1 & Excluded \\
+Final score agrees with FBref & 1{,}517 fixtures & 1 & Same fixture as above \\
+Shot count agrees for both teams & 1{,}516 fixtures & 0 & -- \\
+Shot minute agrees & 39{,}590 shots & 3 & FBref minute used \\
+Shot has an xG value & 39{,}590 shots & 0 & -- \\
+Added time at most 15 minutes per half & 1{,}516 fixtures & 6 & Retained, timestamps agree \\
+Goal event not duplicated & 4{,}501 goals & 0 & -- \\
+Betfair quotes all three outcomes (2024/25) & 42{,}877 in-play minutes & 3 & Dropped \\
+No one-minute price spike (2024/25) & 42{,}874 in-play prices & 110 & Preceding price used \\
+Kick-off 1X2 and over/under prices exist & 280 evaluation & 0 & -- \\
+\bottomrule
+\end{tabular}

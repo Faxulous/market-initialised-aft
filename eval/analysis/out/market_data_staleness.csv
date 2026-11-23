@@ -1,0 +1,2 @@
+set,n,n_no_age,mean,median,p90,p99,max,share_0,share_le_1,share_ge_3,n_ge_5,share_ge_5,n_ge_10,share_ge_10
+eval points: lag from the evaluation minute (+2 shift),27430,280,0.355158585490339,0.0,1.0,10.0,40.0,0.8957710535909588,0.9641268683922712,0.028545388261028072,562,0.02048851622311338,283,0.01031717098067809
