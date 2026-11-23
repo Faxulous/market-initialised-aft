@@ -136,5 +136,17 @@ The code is released under the PolyForm Noncommercial License 1.0.0 (see
 other noncommercial purposes, provided the copyright notice is kept. Commercial
 use needs the author's permission.
 
-If you use this code, please cite the paper above; `CITATION.cff` holds the
-reference.
+If you use this code, please cite the paper:
+
+```bibtex
+@article{clegg2026market,
+  title   = {A market-initialised accelerated failure time model for in-play football forecasting},
+  author  = {Clegg, Lawrence and Song, Zixing and Cartlidge, John},
+  journal = {Journal of Quantitative Analysis in Sports},
+  year    = {2026},
+  doi     = {10.1515/jqas-2026-0103}
+}
+```
+
+`CITATION.cff` holds the same reference, which GitHub uses for its "Cite this
+repository" button.
